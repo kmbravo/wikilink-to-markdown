@@ -1,0 +1,10 @@
+{
+	"id": "wikilink-to-markdown",
+	"name": "WikiLink to Markdown",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Convert Obsidian wikilink to Markdown format links and images.",
+	"author": "km",
+	"authorUrl": "https://your-website.com",
+	"isDesktopOnly": false
+}
