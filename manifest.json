@@ -3,7 +3,7 @@
 	"name": "WikiLink to Markdown",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Convert Obsidian wikilink to Markdown format links and images.",
+	"description": "Convert wikilink to Markdown format links and images.",
 	"author": "kmbravo",
 	"authorUrl": "https://github.com/kmbravo",
 	"isDesktopOnly": false
