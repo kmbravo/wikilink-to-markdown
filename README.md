@@ -4,7 +4,7 @@
 
 
 ### Introduction
-The WikiLink to Markdown Converter is an Obsidian plugin that allows users to convert WikiLinks to standard Markdown links within their notes. This plugin aims to improve compatibility and portability of notes by transforming Obsidian-specific link formats into universally recognized Markdown syntax.
+The WikiLink to Markdown Converter is a plugin for note-taking applications that allows users to convert WikiLinks to standard Markdown links within their notes. This plugin aims to improve compatibility and portability of notes by transforming application-specific link formats into universally recognized Markdown syntax.
 
 ### Features
 - Converts WikiLinks to Markdown links
@@ -22,7 +22,7 @@ The WikiLink to Markdown Converter is an Obsidian plugin that allows users to co
 6. Image links with alt text: `![[image.jpg|Alt Text]]` → `![Alt Text](image.jpg)`
 
 ### Usage
-1. Install the plugin in your Obsidian vault.
+1. Install the plugin in your vault.
 2. Open the note you want to convert.
 3. Click the ribbon icon (link symbol) in the left sidebar.
 4. Confirm the conversion in the popup dialog.
