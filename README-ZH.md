@@ -5,7 +5,7 @@
 ## 中文
 
 ### 简介
-WikiLink 到 Markdown 转换器是一个笔记应用插件，允许用户将笔记中的 WikiLinks 转换为标准 Markdown 链接。该插件旨在通过将特定应用的链接格式转换为通用的 Markdown 语法，来提高笔记的兼容性和可移植性。
+WikiLink 到 Markdown 转换器是一个 Obsidian 插件，允许用户将笔记中的 WikiLinks 转换为标准 Markdown 链接。该插件旨在通过将特定应用的链接格式转换为通用的 Markdown 语法，来提高笔记的兼容性和可移植性。
 
 ### 功能
 - 将 WikiLinks 转换为 Markdown 链接
@@ -19,7 +19,7 @@ WikiLink 到 Markdown 转换器是一个笔记应用插件，允许用户将笔�
 2. 带别名的内部链接: `[[页面名称|别名]]` → `[别名](页面名称.md)`
 3. 外部链接: `[[https://example.com]]` → `[https://example.com](https://example.com)`
 4. 带别名的外部链接: `[[https://example.com|示例]]` → `[示例](https://example.com)`
-5. 图片链接: `![[图片.jpg]]` → `![](图片.jpg)`
+5. 图片链接: `![[图片.jpg]]` → `![图片](图片.jpg)`
 6. 带替代文本的图片链接: `![[图片.jpg|替代文本]]` → `![替代文本](图片.jpg)`
 
 ### 使用方法
@@ -35,3 +35,6 @@ WikiLink 到 Markdown 转换器是一个笔记应用插件，允许用户将笔�
 2. 在列表中找到 "WikiLink 到 Markdown 转换器"
 3. 点击齿轮图标打开插件设置
 4. 从下拉菜单中选择您喜欢的语言
+
+### 贡献
+如果您想为这个项目贡献代码，请随时提交一个 Pull Request。
